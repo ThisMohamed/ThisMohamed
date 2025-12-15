@@ -65,7 +65,3 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 
 ---
 
-### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThisMohamed&theme=default&text&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
