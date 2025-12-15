@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my github..</h1> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 ### 📬 Find me at
@@ -14,11 +14,13 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisMohamed" alt="ThisMohamed" /> </p>
 
-### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I’m a Graduate 🎓 Beni Suef Technological University with a degree in Information Technology. I’m a Tech Enthusiast 💻 😃, passionate about learning and working with new technologies. I love building creative and impactful products that solve real problems and bring value. <br/><br/>
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.edu.eg/)** majoring in Information Technology. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 ---
+## Who am I
+```JavaScript
 class WhoAmI {
   constructor() {
     this.user = 'Mohamed Ahmed';
@@ -41,9 +43,10 @@ class WhoAmI {
     };
   }
 }
+
 	
 	
- ```
+```
 ### ⚙️ Some Tool and Tech I use
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -65,3 +68,7 @@ class WhoAmI {
 
 ---
 
+### Streak Stats Activity
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThisMohamed&theme=default&text&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
