@@ -61,9 +61,7 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 
----
-### My Stats Activity
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThisMohamed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23A9F2&icon_color=151515&text_color=151515&bg_color=FFFFFF" alt="ThisMohamed's Github Stats" /></a>
+
 
 ---
 
