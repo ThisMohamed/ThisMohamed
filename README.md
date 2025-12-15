@@ -24,10 +24,8 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 class WhoAmI {
   constructor() {
     this.user = 'Mohamed Ahmed';
-    this.currentWork = 'Student';
     this.hobbies = [
       'Playing Football',
-      'Reading',
       'Coding',
       'Being up all Night chasing that ONE BUG...'
     ];
@@ -39,7 +37,6 @@ class WhoAmI {
 
   ambitions() {
     const learnDeutsch = () => {
-      // Your code to learn Deutsch can go here
     };
   }
 }
@@ -63,12 +60,3 @@ class WhoAmI {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-
-
-
----
-
-### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThisMohamed&theme=default&text&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
