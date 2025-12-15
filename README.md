@@ -14,32 +14,32 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisMohamed" alt="ThisMohamed" /> </p>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.edu.eg/)** majoring in Information Technology. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+I’m a Graduate 🎓 Beni Suef Technological University with a degree in Information Technology. I’m a Tech Enthusiast 💻 😃, passionate about learning and working with new technologies. I love building creative and impactful products that solve real problems and bring value. <br/><br/>
 
 
 ---
-## Who am I
- ```dart
- class WhoAmI {
-  String user = 'Mohamed Ahmed';
-  String currentWork = 'Student';
-  List<String> hobbies = [
-    'Playing Football',
-    'Reading',
-    'Coding',
-    'Being up all Night chasing that ONE BUG...',
-  ];
+class WhoAmI {
+  constructor() {
+    this.user = 'Mohamed Ahmed';
+    this.currentWork = 'Student';
+    this.hobbies = [
+      'Playing Football',
+      'Reading',
+      'Coding',
+      'Being up all Night chasing that ONE BUG...'
+    ];
+  }
 
-  String getCity() {
+  getCity() {
     return 'BaniSuef, Egypt';
   }
 
- void ambitions() {
-  void learnDeutsch() {}
-
+  ambitions() {
+    const learnDeutsch = () => {
+      // Your code to learn Deutsch can go here
+    };
   }
-
 }
 	
 	
