@@ -13,8 +13,8 @@
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisMohamed" alt="ThisMohamed" /> </p>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.edu.eg/)** majoring in Information Technology. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+I'm a Junior Front-End Developer 💻 passionate about building clean, responsive, and user-friendly web interfaces. I enjoy turning ideas into interactive experiences using modern front-end technologies. 🚀
 
 
 ---
